@@ -5,6 +5,6 @@ public class SkillDemoTest {
     
     @Test
     public void testGetOnesPlace() {
-        assertEquals(2, SkillDemo.getOnesPlace(25));
+        assertEquals(5, SkillDemo.getOnesPlace(25));
     }
 }
